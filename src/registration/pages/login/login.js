@@ -5,7 +5,7 @@ import swat from "sweetalert2";
 import './login.css'
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
-import logo from '../../../images/new.png'
+import logo from '../../../images/logo.png'
 import {isEmail, isEmpty, isLength} from "../../../Utils/validations";
 
 const Login = ({loginUser, isLoggedIn}) => {

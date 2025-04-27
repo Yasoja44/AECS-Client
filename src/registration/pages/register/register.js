@@ -4,7 +4,7 @@ import axios from "axios";
 import {Form, FormGroup, Label, Input, FormFeedback} from 'reactstrap';
 import './register.css'
 import zxcvbn from "zxcvbn";
-import logo from "../../../images/new.png";
+import logo from "../../../images/logo.png";
 import LoadingScreen from "../../loading/loading";
 import {isLengthMobile, isMobile} from "../../../Utils/validations";
 
